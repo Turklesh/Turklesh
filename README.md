@@ -6,9 +6,9 @@
 
 |**Education program**|**Organized by**|**Ending date**|
 |----------------|-----------------|--------|
-|StartML Bootcamp (__[Certificate](https://github.com/lavrenkova/lavrenkova/blob/main/stats.pdf)__)| Karpov Courses| April 2024|
-|Data Scientist Professional (__[Certificate](https://github.com/lavrenkova/lavrenkova/blob/main/stats.pdf)__)|DataCamp|August 2023|
-|FLAMES (__[Certificate](https://github.com/lavrenkova/lavrenkova/blob/main/stats.pdf)__)|KU Leuven|September 2022|
+|StartML Bootcamp (__[Certificate](https://github.com/Turklesh/Turklesh/blob/main/KarpovCourses.pdf)__)| Karpov Courses| April 2024|
+|Data Scientist Professional (__[Certificate](https://github.com/Turklesh/Turklesh/blob/main/DataCamp.pdf)__)|DataCamp|August 2023|
+|FLAMES Summer School (__[Certificate](https://github.com/Turklesh/Turklesh/blob/main/FLAMES.pdf)__)|UAntwerp|September 2022|
 
 </div>
 
