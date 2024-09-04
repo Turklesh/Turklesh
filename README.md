@@ -6,13 +6,22 @@
 
 |**Education program**|**Organized by**|**Ending date**|
 |----------------|-----------------|--------|
-|StartML Bootcamp (__[Certificate](https://github.com/Turklesh/Turklesh/blob/main/KarpovCourses.pdf)__)| Karpov Courses| April 2024|
+|Machine Learning for Chemistry Summer School (*in progress*)| Karlsruhe Institute of Technology| September 2024|
+|Machine Learning Engineer Bootcamp (__[Certificate](https://github.com/Turklesh/Turklesh/blob/main/KarpovCourses.pdf)__)| Karpov Courses| April 2024|
 |Data Scientist Professional with Python (__[Certificate](https://github.com/Turklesh/Turklesh/blob/main/DataCamp.pdf)__)|DataCamp|August 2023|
-|FLAMES Summer School on Statistics and Data Science (__[Certificate](https://github.com/Turklesh/Turklesh/blob/main/FLAMES.pdf)__)|UAntwerp|September 2022|
+|FLAMES Summer School on Statistics and Data Science (__[Certificate](https://github.com/Turklesh/Turklesh/blob/main/FLAMES.pdf)__)|University of Antwerp|September 2022|
 
 </div>
 
-## <p align="center">Technology Stack:</p>
+## <p align='center'>Projects</p>
+<div align='center'>
+    
+|Title|Description|Technology Stack|
+|--------|-----------|-----------|
+|Optimizing Marketing Strategies for Bank Clients (__[link](https://github.com/Turklesh/Marketing_optimization)__)|The project aims to optimize marketing strategies for a bank to target clients more effectively. By developing machine learning models, such as Lasso regression and CatBoost classifier, the models predict the estimated revenue from targeting clients with specific products, helping to improve the efficiency of marketing campaigns.|pandas, numpy, seaborn, matplotlib, sklearn, imblearn|
+</div>
+
+## <p align="center">Technology Stack</p>
 
 <div align='center'> 
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40", title="Python"/>
