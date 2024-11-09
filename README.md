@@ -8,7 +8,7 @@
 |----------------|-----------------|--------|
 |Machine Learning for Chemistry Summer School (__[Certificate](https://github.com/Turklesh/Turklesh/blob/main/ML_for_Chem.pdf)__)| Karlsruhe Institute of Technology| September 2024|
 |Machine Learning Engineer Bootcamp (__[Certificate](https://github.com/Turklesh/Turklesh/blob/main/KarpovCourses.pdf)__)| Karpov Courses| April 2024|
-|Data Scientist Associate Certification with Python (__[Certificate](https://github.com/Turklesh/Turklesh/blob/main/DataCamp_DS_Associate.pdf)__)|DataCamp|August 2023|
+|Data Scientist Associate Certification with Python (__[Certificate](https://github.com/Turklesh/Turklesh/blob/main/DataCamp.pdf)__, __[Certificate](https://github.com/Turklesh/Turklesh/blob/main/DataCamp_DS_Associate.pdf)__)|DataCamp|August 2023|
 |FLAMES Summer School on Statistics and Data Science (__[Certificate](https://github.com/Turklesh/Turklesh/blob/main/FLAMES.pdf)__)|University of Antwerp|September 2022|
 
 </div>
